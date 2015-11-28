@@ -1,0 +1,22 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="co.edu.udea.appempresariales.examples.CodeBreakerTest" tests="8" failures="0" errors="0" timestamp="2015-11-28T15:19:59" hostname="localhost.localdomain" time="0.078">
+  <properties/>
+  <testcase name="correcto2" classname="co.edu.udea.appempresariales.examples.CodeBreakerTest" time="0.059"/>
+  <testcase name="correcto3" classname="co.edu.udea.appempresariales.examples.CodeBreakerTest" time="0.001"/>
+  <testcase name="incorrecto" classname="co.edu.udea.appempresariales.examples.CodeBreakerTest" time="0.001"/>
+  <testcase name="correcto" classname="co.edu.udea.appempresariales.examples.CodeBreakerTest" time="0.001"/>
+  <testcase name="sinPosiciones" classname="co.edu.udea.appempresariales.examples.CodeBreakerTest" time="0.001"/>
+  <testcase name="algunasPosiciones2" classname="co.edu.udea.appempresariales.examples.CodeBreakerTest" time="0.001"/>
+  <testcase name="algunasPosiciones3" classname="co.edu.udea.appempresariales.examples.CodeBreakerTest" time="0.001"/>
+  <testcase name="algunasPosiciones" classname="co.edu.udea.appempresariales.examples.CodeBreakerTest" time="0.006"/>
+  <system-out><![CDATA[0000
+0101
+1234
+1234
+1234
+1234
+1111
+1234
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
