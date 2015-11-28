@@ -1,10 +1,10 @@
 apply plugin: 'java'
-apply plugin 'jacoco'
+apply plugin: 'jacoco'
 
 test{
 	jacoco {
 		toolversion = '0.7.1.201405082137'
-		destinationFile = file("../build/jacoco/jacoco.exe")
+		destinationFile = file("build/jacoco/jacoco.exe")
 		append=true
 	}
 }
